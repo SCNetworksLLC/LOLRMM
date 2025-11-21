@@ -1,0 +1,86 @@
+# This workflow uses LOLRMM and filters it based on requirements
+# https://github.com/magicsword-io/LOLRMM
+
+name: lolrmm Domains
+
+# Controls when the workflow will run
+on:
+  schedule:
+  - cron: '0 8 * * *'  # Runs at 8:00 AM UTC daily
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Fetch latest LOLRMM domain list
+        shell: pwsh
+        run: |
+          #Set Domains to not include
+          $bypass = @("Level","Splashtop","Splashtop Remote","Splashtop (Beta)","Level.io","TeamViewer","ScreenConnect")
+          #Get the full data file
+          $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
+          #Filter out the bypass products
+          $filtered = $data | Where-Object {$_.Name -notin $bypass}
+          # Get the remaining domains
+          $rawDomains = $filtered.artifacts.network.domains
+          # Define regex for valid domains/IPs (simplified for readability)
+          $validDomainRegex = '^(?!\-)([a-zA-Z0-9\-]+\.)+[a-zA-Z]{2,}$'
+          $validIpRegex = '^(?:\d{1,3}\.){3}\d{1,3}$'
+          # Normalize, clean, and expand domains
+          $cleanedDomains = @()
+          foreach ($entry in $rawDomains) {
+              $line = $entry.Trim() -replace '\s', ''
+              if ([string]::IsNullOrWhiteSpace($line)) { continue }
+              # Remove URL path and port
+              $line = $line -replace '[:/].*$', ''
+              # Skip regex/glob-style lines
+              if ($line -match '[\[\]{}]') { continue }
+              # Fix improper wildcard syntax
+              if ($line -match '^\*[a-zA-Z0-9]') {
+                  $line = $line -replace '^\*', '*.'
+              }
+              # Skip malformed wildcards
+              if ($line -match '^\*\.-') { continue }
+              # Skip github sites
+              if ($line -like "*github.com*") { continue }
+              # Skip amazon sites
+              if ($line -like "*amazonaws.com*") { continue }
+              # Validate domain or IP
+              if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
+                  $domain = $line.ToLower()
+                  # Add base domain with trailing slash
+                  if ($domain -notmatch '^\*\.') {
+                      $cleanedDomains += "$domain/"
+                      $cleanedDomains += "*.$domain/"
+                  } else {
+                      # If it's already a wildcard, also add base version
+                      $base = $domain -replace '^\*\.', ''
+                      $cleanedDomains += "$domain/"
+                      $cleanedDomains += "$base/"
+                  }
+              }
+          }
+          # Export the unique set of domains
+          $cleanedDomains | Sort-Object -Unique | Out-File -FilePath "domains-scn.txt" -Force
+      # Commit Changes
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add domains-marshfield.txt
+          git diff --cached --quiet || git commit -m "Daily file update"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
