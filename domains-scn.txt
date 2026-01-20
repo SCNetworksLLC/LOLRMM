@@ -9,12 +9,14 @@
 *.aeroadmin.com/
 *.agent-api.atera.com/
 *.agenthb.atera.com/
+*.agentmqtt.fleetdeck.io/
 *.agentreporting.atera.com/
 *.agentreportingstore.blob.core.windows.net/
 *.agents.addigy.com/
 *.ammyy.com/
 *.anyplace-control.com/
 *.api.hoptodesk.com/
+*.api.netbird.io/
 *.api.remote.it/
 *.api.rustdesk.com/
 *.app.atera.com/
@@ -45,6 +47,7 @@
 *.cfcdn.pdq.com/
 *.changes.panorama9.com/
 *.charon.netreo.net/
+*.checkip.zmazonaws.com/
 *.chromoting-client.talkgadget.google.com/
 *.chromoting-host.talkgadget.google.com/
 *.chromoting-oauth.talkgadget.google.com/
@@ -82,9 +85,11 @@
 *.domotz.com/
 *.donkz.nl/
 *.download.cnet.com/
+*.download.hoptodesk.com/
 *.download.pilixo.com/
 *.downloads.zohocdn.com/
 *.downloads.zohodl.com.cn/
+*.duetdisplay.com/
 *.ehorus.com/
 *.electric.ai/
 *.emcosoftware.com/
@@ -97,9 +102,11 @@
 *.fixme.it/
 *.fleetdeck.io/
 *.fortra.com/
+*.gateway.miradore.com/
 *.gateway.zohoassist.com/
 *.gatherplace.com/
 *.geo.netsupportsoftware.com/
+*.gerwconline.blob.core.windows.net/
 *.getalphacontrol.com/
 *.getscreen.me/
 *.global.rel.tunnels.api.visualstudio.com/
@@ -115,6 +122,7 @@
 *.helpbeam.software.informer.com/
 *.helpme.net/
 *.helpu.co.kr/
+*.hoptodesk.com/
 *.immy.bot/
 *.imperosoftware.com/
 *.instanthousecall.com/
@@ -122,6 +130,7 @@
 *.iperiusremote.com/
 *.islonline.com/
 *.isodownload.baramundi.com/
+*.itagent.com/
 *.itsupport247.net/
 *.ivanti.com/
 *.jumpdesktop.com/
@@ -144,12 +153,14 @@
 *.mdmsupport.comodo.com/
 *.meshcentral.com/
 *.mikogo.com/
+*.miradore.com/
 *.mremoteng.org/
 *.msp360.com/
 *.my.kickidler.com/
 *.myivo-server.software.informer.com/
 *.n-able.com/
 *.naverisk.com/
+*.netbird.io/
 *.netreo.com/
 *.netsupportmanager.com/
 *.neturo.uplus.co.kr/
@@ -158,6 +169,7 @@
 *.ninjaone.com/
 *.ninjarmm.net/
 *.nomachine.com/
+*.nvaccess.org/
 *.ocsinventory-ng.org/
 *.one.comodo.com/
 *.packagesstore.blob.core.windows.net/
@@ -178,6 +190,7 @@
 *.qq-messenger.en.softonic.com/
 *.r1.rmm.uw.gorelo.tech/
 *.radmin.com/
+*.rdp.duetdisplay.com/
 *.realvnc.com/
 *.remobo.en.softonic.com/
 *.remote.it/
@@ -211,6 +224,7 @@
 *.servicedesk.itarian.com/
 *.showmypc.com/
 *.signal.hoptodesk.com/
+*.signal.netbird.io/
 *.simple-help.com/
 *.site24x7.com/
 *.skyfex.com/
@@ -231,6 +245,7 @@
 *.tanium.com/
 *.tele-desk.com/
 *.tightvnc.com/
+*.tmate.io/
 *.todesk.com/
 *.todesktop.com/
 *.trusted.panorama9.com/
@@ -243,6 +258,7 @@
 *.weezo.net/
 *.wen.laplink.com/
 *.www.baramundi.com/
+*.www.hoptodesk.com/
 *.www.quest.com/
 *.www.remotepc.com/
 *.xeox.com/
@@ -260,12 +276,14 @@ activation.netreo.net/
 aeroadmin.com/
 agent-api.atera.com/
 agenthb.atera.com/
+agentmqtt.fleetdeck.io/
 agentreporting.atera.com/
 agentreportingstore.blob.core.windows.net/
 agents.addigy.com/
 ammyy.com/
 anyplace-control.com/
 api.hoptodesk.com/
+api.netbird.io/
 api.remote.it/
 api.rustdesk.com/
 app.atera.com/
@@ -296,6 +314,7 @@ centuriontech.com/
 cfcdn.pdq.com/
 changes.panorama9.com/
 charon.netreo.net/
+checkip.zmazonaws.com/
 chromoting-client.talkgadget.google.com/
 chromoting-host.talkgadget.google.com/
 chromoting-oauth.talkgadget.google.com/
@@ -333,9 +352,11 @@ docs.tacticalrmm.com/
 domotz.com/
 donkz.nl/
 download.cnet.com/
+download.hoptodesk.com/
 download.pilixo.com/
 downloads.zohocdn.com/
 downloads.zohodl.com.cn/
+duetdisplay.com/
 ehorus.com/
 electric.ai/
 emcosoftware.com/
@@ -348,9 +369,11 @@ fastviewer.com/
 fixme.it/
 fleetdeck.io/
 fortra.com/
+gateway.miradore.com/
 gateway.zohoassist.com/
 gatherplace.com/
 geo.netsupportsoftware.com/
+gerwconline.blob.core.windows.net/
 getalphacontrol.com/
 getscreen.me/
 global.rel.tunnels.api.visualstudio.com/
@@ -366,6 +389,7 @@ heartbeatrm.com/
 helpbeam.software.informer.com/
 helpme.net/
 helpu.co.kr/
+hoptodesk.com/
 immy.bot/
 imperosoftware.com/
 instanthousecall.com/
@@ -373,6 +397,7 @@ intelliadmin.com/
 iperiusremote.com/
 islonline.com/
 isodownload.baramundi.com/
+itagent.com/
 itsupport247.net/
 ivanti.com/
 jumpdesktop.com/
@@ -395,12 +420,14 @@ manageengine.com/
 mdmsupport.comodo.com/
 meshcentral.com/
 mikogo.com/
+miradore.com/
 mremoteng.org/
 msp360.com/
 my.kickidler.com/
 myivo-server.software.informer.com/
 n-able.com/
 naverisk.com/
+netbird.io/
 netreo.com/
 netsupportmanager.com/
 neturo.uplus.co.kr/
@@ -409,6 +436,7 @@ ninja-backup.com/
 ninjaone.com/
 ninjarmm.net/
 nomachine.com/
+nvaccess.org/
 ocsinventory-ng.org/
 one.comodo.com/
 packagesstore.blob.core.windows.net/
@@ -429,6 +457,7 @@ pulseway.com/
 qq-messenger.en.softonic.com/
 r1.rmm.uw.gorelo.tech/
 radmin.com/
+rdp.duetdisplay.com/
 realvnc.com/
 remobo.en.softonic.com/
 remote.it/
@@ -462,6 +491,7 @@ servably.com/
 servicedesk.itarian.com/
 showmypc.com/
 signal.hoptodesk.com/
+signal.netbird.io/
 simple-help.com/
 site24x7.com/
 skyfex.com/
@@ -482,6 +512,7 @@ tailscale.com/
 tanium.com/
 tele-desk.com/
 tightvnc.com/
+tmate.io/
 todesk.com/
 todesktop.com/
 trusted.panorama9.com/
@@ -494,6 +525,7 @@ weezo.en.softonic.com/
 weezo.net/
 wen.laplink.com/
 www.baramundi.com/
+www.hoptodesk.com/
 www.quest.com/
 www.remotepc.com/
 xeox.com/
