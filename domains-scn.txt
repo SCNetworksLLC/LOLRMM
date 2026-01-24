@@ -16,6 +16,7 @@
 *.ammyy.com/
 *.anyplace-control.com/
 *.api.hoptodesk.com/
+*.api.idrive.com/
 *.api.netbird.io/
 *.api.remote.it/
 *.api.rustdesk.com/
@@ -123,6 +124,7 @@
 *.helpme.net/
 *.helpu.co.kr/
 *.hoptodesk.com/
+*.idrive.com/
 *.immy.bot/
 *.imperosoftware.com/
 *.instanthousecall.com/
@@ -283,6 +285,7 @@ agents.addigy.com/
 ammyy.com/
 anyplace-control.com/
 api.hoptodesk.com/
+api.idrive.com/
 api.netbird.io/
 api.remote.it/
 api.rustdesk.com/
@@ -390,6 +393,7 @@ helpbeam.software.informer.com/
 helpme.net/
 helpu.co.kr/
 hoptodesk.com/
+idrive.com/
 immy.bot/
 imperosoftware.com/
 instanthousecall.com/
