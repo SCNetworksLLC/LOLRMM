@@ -28,7 +28,7 @@ jobs:
         shell: pwsh
         run: |
           #Set Domains to not include
-          $bypass = @("Level","Splashtop","Splashtop Remote","Splashtop (Beta)","Level.io","TeamViewer","ScreenConnect","CloudFlare Tunnel")
+          $bypass = @("Level","Splashtop","Splashtop Remote","Splashtop (Beta)","Level.io","TeamViewer","ScreenConnect")
           #Get the full data file
           $data = Invoke-RestMethod "https://lolrmm.io/api/rmm_tools.json"
           #Filter out the bypass products
@@ -57,6 +57,8 @@ jobs:
               if ($line -like "*github.com*") { continue }
               # Skip amazon sites
               if ($line -like "*amazonaws.com*") { continue }
+              # Skip cloudflare
+              if ($line -like "*cloudflare.com*") { continue }
               # Validate domain or IP
               if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
                   $domain = $line.ToLower()
