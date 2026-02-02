@@ -56,7 +56,6 @@
 *.cloud.acronis.com/
 *.cloud.tanium.com/
 *.cloudbackup.management/
-*.cloudflare.com/
 *.community.sophos.com/
 *.connect.acronis.com/
 *.connect.ap.ngrok-agent.com/
@@ -240,7 +239,6 @@
 *.systemmanager.ru/
 *.systemmonitor.co.uk/
 *.systemmonitor.eu.com/
-*.systemmonitor.us.cdn.cloudflare.net/
 *.systemmonitor.us/
 *.tailscale.com/
 *.tanium.com/
@@ -324,7 +322,6 @@ client.oray.net/
 cloud.acronis.com/
 cloud.tanium.com/
 cloudbackup.management/
-cloudflare.com/
 community.sophos.com/
 connect.acronis.com/
 connect.ap.ngrok-agent.com/
@@ -508,7 +505,6 @@ system-monitor.com/
 systemmanager.ru/
 systemmonitor.co.uk/
 systemmonitor.eu.com/
-systemmonitor.us.cdn.cloudflare.net/
 systemmonitor.us/
 tailscale.com/
 tanium.com/
