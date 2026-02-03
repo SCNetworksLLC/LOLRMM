@@ -239,6 +239,7 @@
 *.systemmanager.ru/
 *.systemmonitor.co.uk/
 *.systemmonitor.eu.com/
+*.systemmonitor.us.cdn.cloudflare.net/
 *.systemmonitor.us/
 *.tailscale.com/
 *.tanium.com/
@@ -505,6 +506,7 @@ system-monitor.com/
 systemmanager.ru/
 systemmonitor.co.uk/
 systemmonitor.eu.com/
+systemmonitor.us.cdn.cloudflare.net/
 systemmonitor.us/
 tailscale.com/
 tanium.com/
