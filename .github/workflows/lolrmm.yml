@@ -59,6 +59,8 @@ jobs:
               if ($line -like "*amazonaws.com*") { continue }
               # Skip cloudflare
               if ($line -like "*cloudflare.com*") { continue }
+              # Skip Microsoft
+              if ($line -like "*microsoft.com*") { continue }
               # Validate domain or IP
               if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
                   $domain = $line.ToLower()
