@@ -141,7 +141,6 @@
 *.kickidler.com/
 *.ld.aurelius.host/
 *.le.laplink.com/
-*.learn.microsoft.com/
 *.litemanager.com/
 *.live.screenconnect.com/
 *.logicnow.com/
@@ -408,7 +407,6 @@ kaseya.com/
 kickidler.com/
 ld.aurelius.host/
 le.laplink.com/
-learn.microsoft.com/
 litemanager.com/
 live.screenconnect.com/
 logicnow.com/
