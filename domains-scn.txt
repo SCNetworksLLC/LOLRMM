@@ -173,7 +173,6 @@
 *.one.comodo.com/
 *.packagesstore.blob.core.windows.net/
 *.panorama9.com/
-*.parallels.com/
 *.parsec.app/
 *.parsec.gg/
 *.pcvisit.de/
@@ -439,7 +438,6 @@ ocsinventory-ng.org/
 one.comodo.com/
 packagesstore.blob.core.windows.net/
 panorama9.com/
-parallels.com/
 parsec.app/
 parsec.gg/
 pcvisit.de/
