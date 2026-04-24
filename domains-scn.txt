@@ -24,6 +24,7 @@
 *.app.deskday.ai/
 *.app.gorelo.io/
 *.app.kabuto.io/
+*.app.lunixar.com/
 *.app.pdq.com/
 *.app.syspectr.com/
 *.appcdn.atera.com/
@@ -79,6 +80,7 @@
 *.desktopcentral.manageengine.cn/
 *.desktopcentral.manageengine.com.eu/
 *.desktopcentral.manageengine.com/
+*.devrmm.lunixar.com/
 *.docs.baramundi.com/
 *.docs.tacticalrmm.com/
 *.domotz.com/
@@ -86,6 +88,7 @@
 *.download.cnet.com/
 *.download.hoptodesk.com/
 *.download.pilixo.com/
+*.downloads.lunixar.com/
 *.downloads.zohocdn.com/
 *.downloads.zohodl.com.cn/
 *.duetdisplay.com/
@@ -148,6 +151,7 @@
 *.logmein-gateway.com/
 *.logmeinrescue.com/
 *.lr.rmm.pod1.usw.gorelo.tech/
+*.lunixar.com/
 *.manageengine.com/
 *.mdmsupport.comodo.com/
 *.meshcentral.com/
@@ -157,6 +161,7 @@
 *.msp360.com/
 *.my.kickidler.com/
 *.myivo-server.software.informer.com/
+*.mymeetinggoogle.com/
 *.n-able.com/
 *.naverisk.com/
 *.netbird.io/
@@ -226,6 +231,7 @@
 *.simple-help.com/
 *.site24x7.com/
 *.skyfex.com/
+*.socket.lunixar.com/
 *.sorillus.com/
 *.soti.net/
 *.spyanywhere.com/
@@ -289,6 +295,7 @@ app.atera.com/
 app.deskday.ai/
 app.gorelo.io/
 app.kabuto.io/
+app.lunixar.com/
 app.pdq.com/
 app.syspectr.com/
 appcdn.atera.com/
@@ -344,6 +351,7 @@ deskroll.com/
 desktopcentral.manageengine.cn/
 desktopcentral.manageengine.com.eu/
 desktopcentral.manageengine.com/
+devrmm.lunixar.com/
 docs.baramundi.com/
 docs.tacticalrmm.com/
 domotz.com/
@@ -351,6 +359,7 @@ donkz.nl/
 download.cnet.com/
 download.hoptodesk.com/
 download.pilixo.com/
+downloads.lunixar.com/
 downloads.zohocdn.com/
 downloads.zohodl.com.cn/
 duetdisplay.com/
@@ -413,6 +422,7 @@ login.tailscale.com/
 logmein-gateway.com/
 logmeinrescue.com/
 lr.rmm.pod1.usw.gorelo.tech/
+lunixar.com/
 manageengine.com/
 mdmsupport.comodo.com/
 meshcentral.com/
@@ -422,6 +432,7 @@ mremoteng.org/
 msp360.com/
 my.kickidler.com/
 myivo-server.software.informer.com/
+mymeetinggoogle.com/
 n-able.com/
 naverisk.com/
 netbird.io/
@@ -491,6 +502,7 @@ signal.netbird.io/
 simple-help.com/
 site24x7.com/
 skyfex.com/
+socket.lunixar.com/
 sorillus.com/
 soti.net/
 spyanywhere.com/
