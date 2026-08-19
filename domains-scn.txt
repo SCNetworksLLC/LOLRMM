@@ -56,6 +56,7 @@
 *.boot.net.anydesk.com/
 *.c.mid.al/
 *.cc.centrastage.net/
+*.cdn.teleport.dev/
 *.cell-1.domotz.com/
 *.centuriontech.com/
 *.cfcdn.pdq.com/
@@ -90,6 +91,7 @@
 *.dameware.com/
 *.dataplicity.com/
 *.deepfreeze.com/
+*.demo.controlr.app/
 *.deploy.faronics.com/
 *.deploy01.kaseya.com/
 *.deskday.ai/
@@ -280,6 +282,7 @@
 *.remotepulse.io/
 *.remoteutilities.com/
 *.repairshopr.com/
+*.reporting-connect.teleportinfra.sh/
 *.rescue-data-cetner.logmein-gateway.com/
 *.resources.ninjarmm.com/
 *.rism.pages.dev/
@@ -352,6 +355,7 @@
 *.ultraviewer.net/
 *.ultravnc.com/
 *.upd.faronicslabs.com/
+*.usage.teleport.dev/
 *.vector-networks.com/
 *.vizor.cloud/
 *.wangwang.taobao.com/
@@ -442,6 +446,7 @@ bomgarcloud.com/
 boot.net.anydesk.com/
 c.mid.al/
 cc.centrastage.net/
+cdn.teleport.dev/
 cell-1.domotz.com/
 centuriontech.com/
 cfcdn.pdq.com/
@@ -476,6 +481,7 @@ crossloop.en.softonic.com/
 dameware.com/
 dataplicity.com/
 deepfreeze.com/
+demo.controlr.app/
 deploy.faronics.com/
 deploy01.kaseya.com/
 deskday.ai/
@@ -666,6 +672,7 @@ remotepro-us-west-2.faronics.com/
 remotepulse.io/
 remoteutilities.com/
 repairshopr.com/
+reporting-connect.teleportinfra.sh/
 rescue-data-cetner.logmein-gateway.com/
 resources.ninjarmm.com/
 rism.pages.dev/
@@ -738,6 +745,7 @@ turn.monitic.com/
 ultraviewer.net/
 ultravnc.com/
 upd.faronicslabs.com/
+usage.teleport.dev/
 vector-networks.com/
 vizor.cloud/
 wangwang.taobao.com/
