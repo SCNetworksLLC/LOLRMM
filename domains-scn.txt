@@ -245,6 +245,7 @@
 *.objects.githubusercontent.com/
 *.ocsinventory-ng.org/
 *.one.comodo.com/
+*.opsbridge.digital/
 *.packagesstore.blob.core.windows.net/
 *.panorama9.com/
 *.parsec.app/
@@ -313,7 +314,6 @@
 *.servicedesk.itarian.com/
 *.services.glpi-network.com/
 *.set.me/
-*.setme.net/
 *.shellhub.io/
 *.showmypc.com/
 *.signal.hoptodesk.com/
@@ -639,6 +639,7 @@ nvaccess.org/
 objects.githubusercontent.com/
 ocsinventory-ng.org/
 one.comodo.com/
+opsbridge.digital/
 packagesstore.blob.core.windows.net/
 panorama9.com/
 parsec.app/
@@ -707,7 +708,6 @@ server.absolute.com/
 servicedesk.itarian.com/
 services.glpi-network.com/
 set.me/
-setme.net/
 shellhub.io/
 showmypc.com/
 signal.hoptodesk.com/
