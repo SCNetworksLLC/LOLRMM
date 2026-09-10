@@ -28,6 +28,7 @@
 *.api.netbird.io/
 *.api.remote.it/
 *.api.remsupp.com/
+*.api.rmmmax.com/
 *.api.rustdesk.com/
 *.apicdn-wchat.freshchat.com/
 *.app.atera.com/
@@ -422,6 +423,7 @@ api.monitic.com/
 api.netbird.io/
 api.remote.it/
 api.remsupp.com/
+api.rmmmax.com/
 api.rustdesk.com/
 apicdn-wchat.freshchat.com/
 app.atera.com/
