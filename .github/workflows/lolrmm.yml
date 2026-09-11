@@ -61,6 +61,8 @@ jobs:
               if ($line -like "*cloudflare.com*") { continue }
               # Skip Microsoft
               if ($line -like "*microsoft.com*") { continue }
+              # Skip TwinGate PubNub
+              if ($line -like "*pubnub.com*") { continue }
               # Validate domain or IP
               if ($line -match $validDomainRegex -or $line -match $validIpRegex) {
                   $domain = $line.ToLower()
