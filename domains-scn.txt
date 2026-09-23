@@ -19,6 +19,7 @@
 *.agents.addigy.com/
 *.ammyy.com/
 *.anyplace-control.com/
+*.api-ca-1.lavawall.com/
 *.api.fdcollab.com/
 *.api.helpwire.app/
 *.api.hoptodesk.com/
@@ -28,6 +29,7 @@
 *.api.netbird.io/
 *.api.remote.it/
 *.api.remsupp.com/
+*.api.rg-supervision.com/
 *.api.rmmmax.com/
 *.api.rustdesk.com/
 *.apicdn-wchat.freshchat.com/
@@ -40,6 +42,7 @@
 *.app.netbird.io/
 *.app.pdq.com/
 *.app.tiflux.com/
+*.app.zecurit.com/
 *.appcdn.atera.com/
 *.assist.zoho.com/
 *.atera-agent-heartbeat.servicebus.windows.net/
@@ -58,6 +61,7 @@
 *.breeze.app/
 *.breezermm.com/
 *.c.mid.al/
+*.caremote1.lavawall.com/
 *.cc.centrastage.net/
 *.cdn.teleport.dev/
 *.cell-1.domotz.com/
@@ -91,7 +95,9 @@
 *.content.rview.com/
 *.control.connectwise.com/
 *.crossloop.en.softonic.com/
+*.d1m8kha1zyjal6.cloudfront.net/
 *.dameware.com/
+*.dashboard.rg-supervision.com/
 *.dataplicity.com/
 *.deepfreeze.com/
 *.demo.controlr.app/
@@ -104,6 +110,7 @@
 *.desktopcentral.manageengine.com/
 *.devapi.monitic.com/
 *.devrmm.lunixar.com/
+*.dms.zecurit.com/
 *.docs.baramundi.com/
 *.docs.faronics.com/
 *.docs.invgate.net/
@@ -192,9 +199,11 @@
 *.kaseya.com/
 *.kickidler.com/
 *.komari-document.pages.dev/
+*.lavawinupdate.lavawall.com/
 *.lb-insight-001.invgate.net/
 *.ld.aurelius.host/
 *.le.laplink.com/
+*.lisa.rg-supervision.com/
 *.litemanager.com/
 *.live.screenconnect.com/
 *.localxpose.io/
@@ -414,6 +423,7 @@ agentreportingstore.blob.core.windows.net/
 agents.addigy.com/
 ammyy.com/
 anyplace-control.com/
+api-ca-1.lavawall.com/
 api.fdcollab.com/
 api.helpwire.app/
 api.hoptodesk.com/
@@ -423,6 +433,7 @@ api.monitic.com/
 api.netbird.io/
 api.remote.it/
 api.remsupp.com/
+api.rg-supervision.com/
 api.rmmmax.com/
 api.rustdesk.com/
 apicdn-wchat.freshchat.com/
@@ -435,6 +446,7 @@ app.monitic.com/
 app.netbird.io/
 app.pdq.com/
 app.tiflux.com/
+app.zecurit.com/
 appcdn.atera.com/
 assist.zoho.com/
 atera-agent-heartbeat.servicebus.windows.net/
@@ -453,6 +465,7 @@ boot.net.anydesk.com/
 breeze.app/
 breezermm.com/
 c.mid.al/
+caremote1.lavawall.com/
 cc.centrastage.net/
 cdn.teleport.dev/
 cell-1.domotz.com/
@@ -486,7 +499,9 @@ connectwise.com/
 content.rview.com/
 control.connectwise.com/
 crossloop.en.softonic.com/
+d1m8kha1zyjal6.cloudfront.net/
 dameware.com/
+dashboard.rg-supervision.com/
 dataplicity.com/
 deepfreeze.com/
 demo.controlr.app/
@@ -499,6 +514,7 @@ desktopcentral.manageengine.com.eu/
 desktopcentral.manageengine.com/
 devapi.monitic.com/
 devrmm.lunixar.com/
+dms.zecurit.com/
 docs.baramundi.com/
 docs.faronics.com/
 docs.invgate.net/
@@ -587,9 +603,11 @@ kabutoservices.com/
 kaseya.com/
 kickidler.com/
 komari-document.pages.dev/
+lavawinupdate.lavawall.com/
 lb-insight-001.invgate.net/
 ld.aurelius.host/
 le.laplink.com/
+lisa.rg-supervision.com/
 litemanager.com/
 live.screenconnect.com/
 localxpose.io/
