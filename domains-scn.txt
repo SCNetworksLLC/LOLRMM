@@ -21,7 +21,6 @@
 *.anyplace-control.com/
 *.api-ca-1.lavawall.com/
 *.api.allocentra.co.za/
-*.api.fdcollab.com/
 *.api.helpwire.app/
 *.api.hoptodesk.com/
 *.api.idrive.com/
@@ -34,7 +33,6 @@
 *.api.rg-supervision.com/
 *.api.rmmmax.com/
 *.api.rustdesk.com/
-*.apicdn-wchat.freshchat.com/
 *.app-af-agent-prod-009.azurewebsites.net/
 *.app.atera.com/
 *.app.deskday.ai/
@@ -145,10 +143,6 @@
 *.fleetdeck.io/
 *.fortra.com/
 *.forum.glpi-project.org/
-*.freshasset.com/
-*.freshservice.com/
-*.fstools.freshasset.com/
-*.fstools.freshservice.com/
 *.gateway.miradore.com/
 *.gateway.zohoassist.com/
 *.gatherplace.com/
@@ -342,7 +336,6 @@
 *.spyanywhere.com/
 *.sr.rmm.pod1.usw.gorelo.tech/
 *.staging.helpwire.app/
-*.static.freshdev.io/
 *.stun.helpwire.app/
 *.stunserver.stunprotocol.org/
 *.sunlogin.oray.com/
@@ -388,7 +381,6 @@
 *.www.deepfreeze.com/
 *.www.faronics.com/
 *.www.faronicsdeploy.com/
-*.www.freshservice.com/
 *.www.glpi-project.org/
 *.www.hoptodesk.com/
 *.www.invgate.com/
@@ -432,7 +424,6 @@ ammyy.com/
 anyplace-control.com/
 api-ca-1.lavawall.com/
 api.allocentra.co.za/
-api.fdcollab.com/
 api.helpwire.app/
 api.hoptodesk.com/
 api.idrive.com/
@@ -445,7 +436,6 @@ api.remsupp.com/
 api.rg-supervision.com/
 api.rmmmax.com/
 api.rustdesk.com/
-apicdn-wchat.freshchat.com/
 app-af-agent-prod-009.azurewebsites.net/
 app.atera.com/
 app.deskday.ai/
@@ -556,10 +546,6 @@ fixme.it/
 fleetdeck.io/
 fortra.com/
 forum.glpi-project.org/
-freshasset.com/
-freshservice.com/
-fstools.freshasset.com/
-fstools.freshservice.com/
 gateway.miradore.com/
 gateway.zohoassist.com/
 gatherplace.com/
@@ -753,7 +739,6 @@ soti.net/
 spyanywhere.com/
 sr.rmm.pod1.usw.gorelo.tech/
 staging.helpwire.app/
-static.freshdev.io/
 stun.helpwire.app/
 stunserver.stunprotocol.org/
 sunlogin.oray.com/
@@ -799,7 +784,6 @@ www.dataplicity.com/
 www.deepfreeze.com/
 www.faronics.com/
 www.faronicsdeploy.com/
-www.freshservice.com/
 www.glpi-project.org/
 www.hoptodesk.com/
 www.invgate.com/
