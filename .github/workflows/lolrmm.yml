@@ -55,6 +55,7 @@ jobs:
               if ($line -match '^\*\.-') { continue }
               # Skip github sites
               if ($line -like "*github.com*") { continue }
+              if ($line -like "*raw.githubusercontent.com*") { continue }
               # Skip amazon sites
               if ($line -like "*amazonaws.com*") { continue }
               # Skip cloudflare
