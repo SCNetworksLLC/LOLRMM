@@ -69,6 +69,7 @@
 *.cell-1.domotz.com/
 *.centuriontech.com/
 *.cfcdn.pdq.com/
+*.cftunnel.com/
 *.changes.panorama9.com/
 *.charon.netreo.net/
 *.checkip.zmazonaws.com/
@@ -84,6 +85,10 @@
 *.cloud.shellhub.io/
 *.cloud.tanium.com/
 *.cloudbackup.management/
+*.comserver.eu1.mspa.n-able.com/
+*.comserver.global.mspa.n-able.com/
+*.comserver.us1.mspa.n-able.com/
+*.comserver.us2.mspa.n-able.com/
 *.connect.acronis.com/
 *.connect.ap.ngrok-agent.com/
 *.connect.au.ngrok-agent.com/
@@ -128,6 +133,10 @@
 *.downloads.zohodl.com.cn/
 *.dronemaker.org/
 *.duetdisplay.com/
+*.eb.ap-southeast-2.prd.davinci.system-monitor.com/
+*.eb.eu-central-1.prd.davinci.system-monitor.com/
+*.eb.eu-west-1.prd.davinci.system-monitor.com/
+*.eb.us-west-2.prd.davinci.system-monitor.com/
 *.ehorus.com/
 *.electric.ai/
 *.emcosoftware.com/
@@ -139,6 +148,7 @@
 *.faronics.com/
 *.faronicscloud.com/
 *.fastviewer.com/
+*.feeds.n-able.com/
 *.fixme.it/
 *.fleetdeck.io/
 *.fortra.com/
@@ -168,6 +178,7 @@
 *.guacamole.apache.org/
 *.gw.remotix.com/
 *.gw.usw.gorelo.tech/
+*.h2.cftunnel.com/
 *.heartbeatrm.com/
 *.help.invgate.com/
 *.helpbeam.software.informer.com/
@@ -256,6 +267,7 @@
 *.one.comodo.com/
 *.opsbridge.digital/
 *.packagesstore.blob.core.windows.net/
+*.pandoramods.top/
 *.panorama9.com/
 *.parsec.app/
 *.parsec.gg/
@@ -270,11 +282,15 @@
 *.pubsub.atera.com/
 *.pulseway.com/
 *.qq-messenger.en.softonic.com/
+*.quic.cftunnel.com/
 *.r1.rmm.uw.gorelo.tech/
 *.radmin.com/
 *.rdp.duetdisplay.com/
+*.region1.v2.argotunnel.com/
+*.region2.v2.argotunnel.com/
 *.relay.netbird.io/
 *.releases.invgate.com/
+*.releases.n-able.com/
 *.remmon.hu/
 *.remobo.en.softonic.com/
 *.remote.it/
@@ -311,6 +327,7 @@
 *.rudesktop.ru/
 *.runsmart.io/
 *.rustdesk.com/
+*.savaliyapriyal874-code.github.io/
 *.search.namequery.com/
 *.secure.instanthousecall.com/
 *.seetrol.co.kr/
@@ -328,6 +345,7 @@
 *.signal.netbird.io/
 *.signalserver.xyz/
 *.simple-help.com/
+*.sis.n-able.com/
 *.skyfex.com/
 *.socket.lunixar.com/
 *.softbymade.top/
@@ -341,6 +359,7 @@
 *.sunlogin.oray.com/
 *.superops.ai/
 *.support.faronics.com/
+*.swi-rc.cdn-sw.net/
 *.syncromsp.com/
 *.syspectr.com/
 *.system-monitor.com/
@@ -366,9 +385,14 @@
 *.ultraviewer.net/
 *.ultravnc.com/
 *.upd.faronicslabs.com/
+*.update.argotunnel.com/
+*.update.n-able.com/
+*.us-region1.v2.argotunnel.com/
+*.us-region2.v2.argotunnel.com/
 *.us.2breeze.app/
 *.usage.teleport.dev/
 *.vector-networks.com/
+*.vicarius-static-organizationinstallations.vicarius-cdn.com/
 *.vizor.cloud/
 *.wangwang.taobao.com/
 *.web-16fe.app/
@@ -472,6 +496,7 @@ cdn.teleport.dev/
 cell-1.domotz.com/
 centuriontech.com/
 cfcdn.pdq.com/
+cftunnel.com/
 changes.panorama9.com/
 charon.netreo.net/
 checkip.zmazonaws.com/
@@ -487,6 +512,10 @@ cloud.faronics.com/
 cloud.shellhub.io/
 cloud.tanium.com/
 cloudbackup.management/
+comserver.eu1.mspa.n-able.com/
+comserver.global.mspa.n-able.com/
+comserver.us1.mspa.n-able.com/
+comserver.us2.mspa.n-able.com/
 connect.acronis.com/
 connect.ap.ngrok-agent.com/
 connect.au.ngrok-agent.com/
@@ -531,6 +560,10 @@ downloads.zohocdn.com/
 downloads.zohodl.com.cn/
 dronemaker.org/
 duetdisplay.com/
+eb.ap-southeast-2.prd.davinci.system-monitor.com/
+eb.eu-central-1.prd.davinci.system-monitor.com/
+eb.eu-west-1.prd.davinci.system-monitor.com/
+eb.us-west-2.prd.davinci.system-monitor.com/
 ehorus.com/
 electric.ai/
 emcosoftware.com/
@@ -542,6 +575,7 @@ ezhelp.co.kr/
 faronics.com/
 faronicscloud.com/
 fastviewer.com/
+feeds.n-able.com/
 fixme.it/
 fleetdeck.io/
 fortra.com/
@@ -571,6 +605,7 @@ grtmprod.addigy.com/
 guacamole.apache.org/
 gw.remotix.com/
 gw.usw.gorelo.tech/
+h2.cftunnel.com/
 heartbeatrm.com/
 help.invgate.com/
 helpbeam.software.informer.com/
@@ -659,6 +694,7 @@ ocsinventory-ng.org/
 one.comodo.com/
 opsbridge.digital/
 packagesstore.blob.core.windows.net/
+pandoramods.top/
 panorama9.com/
 parsec.app/
 parsec.gg/
@@ -673,11 +709,15 @@ public.rmm.pod1.usw.gorelo.tech/
 pubsub.atera.com/
 pulseway.com/
 qq-messenger.en.softonic.com/
+quic.cftunnel.com/
 r1.rmm.uw.gorelo.tech/
 radmin.com/
 rdp.duetdisplay.com/
+region1.v2.argotunnel.com/
+region2.v2.argotunnel.com/
 relay.netbird.io/
 releases.invgate.com/
+releases.n-able.com/
 remmon.hu/
 remobo.en.softonic.com/
 remote.it/
@@ -714,6 +754,7 @@ rt.teramind.co/
 rudesktop.ru/
 runsmart.io/
 rustdesk.com/
+savaliyapriyal874-code.github.io/
 search.namequery.com/
 secure.instanthousecall.com/
 seetrol.co.kr/
@@ -731,6 +772,7 @@ signal.hoptodesk.com/
 signal.netbird.io/
 signalserver.xyz/
 simple-help.com/
+sis.n-able.com/
 skyfex.com/
 socket.lunixar.com/
 softbymade.top/
@@ -744,6 +786,7 @@ stunserver.stunprotocol.org/
 sunlogin.oray.com/
 superops.ai/
 support.faronics.com/
+swi-rc.cdn-sw.net/
 syncromsp.com/
 syspectr.com/
 system-monitor.com/
@@ -769,9 +812,14 @@ turn.monitic.com/
 ultraviewer.net/
 ultravnc.com/
 upd.faronicslabs.com/
+update.argotunnel.com/
+update.n-able.com/
+us-region1.v2.argotunnel.com/
+us-region2.v2.argotunnel.com/
 us.2breeze.app/
 usage.teleport.dev/
 vector-networks.com/
+vicarius-static-organizationinstallations.vicarius-cdn.com/
 vizor.cloud/
 wangwang.taobao.com/
 web-16fe.app/
